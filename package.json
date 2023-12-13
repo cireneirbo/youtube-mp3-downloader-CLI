@@ -1,0 +1,31 @@
+{
+  
+  "name": "youtube-mp3-downloader-cli",
+  
+  "version": "0.0.0",
+  
+  "private": true,
+  
+  "scripts": {
+  
+    
+  "start": "node main.js"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "ffmpeg-static": "^5.2.0",
+  
+    
+  "readline-sync": "^1.4.10",
+  
+    
+  "youtube-mp3-downloader": "^0.7.11",
+  
+    
+  "ytdl-core": "^4.11.5"
+  
+  }
+}
